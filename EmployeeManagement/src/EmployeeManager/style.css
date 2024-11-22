@@ -1,0 +1,103 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 19, 2020, 5:14:47 PM
+    Author     : Chanawee
+*/
+.root{
+    -fx-background-color: #273545;
+    -fx-font-size: 9pt;
+}
+.username{
+    -fx-background-color: #273545;
+    -fx-text-color: #FFFFFF;
+}
+.button{
+    -fx-background-color:  #778DA9;
+    -fx-text-fill: #FFFFFF;
+}
+.button:hover{
+    -fx-backGround-color: #6a819e;
+}
+.button:selected{
+    -fx-background-color: #566c87;
+}
+.label{
+    -fx-text-fill: #F0EBD8;
+}
+.login_pane{
+    -fx-background-color:  #586d85;
+    
+}
+.exit_button{
+    -fx-font-size: 28;
+    -fx-text-fill: #FFFFFF;
+}
+.hide_button{
+    -fx-font-size: 55;
+    -fx-text-fill: #FFFFFF;
+}
+.label_sign_in{
+    -fx-font-size: 32;
+    -fx-fill: #FFFFFF;
+    
+}
+.textfield{
+    -fx-background-color: #586d85;
+    -fx-font : 12px "Opun";
+    -fx-text-inner-color: white;
+}
+.textfield:hover{
+    -fx-background-color: #425469;
+    -fx-font : 12px "Opun";
+    -fx-text-inner-color: white;
+    
+}
+.textfield:focused{
+    -fx-background-color: #425469;
+    -fx-font : 12px "Opun";
+    -fx-text-inner-color: white;
+}
+.textfield:selected{
+    -fx-background-color: #425469;
+    -fx-font : 12px "Opun";
+    -fx-text-inner-color: white;
+}
+.toggle-button {
+    -fx-background-color: green;
+}
+
+.toggle-button:selected {
+    -fx-background-color: yellow;
+}
+.emp{
+    -fx-font-size: 21;
+    -fx-fill: #FFFFFF;
+    
+}
+.man{
+    -fx-font-size: 19;
+    -fx-fill: #FFFFFF;
+}
+.alert{
+    -fx-background-color: #FFB4A2;
+    
+}
+.alert_button{
+    -fx-background-color: #FFCDB2;
+    -fx-text-fill: #000000;
+}
+.alert_button:hover{
+    -fx-background-color: #ffd9c4;
+}
+.alert_exit{
+    -fx-font-size: 28;
+    -fx-text-fill: #000000;
+}
+.alert_label{
+    -fx-font-size: 24;
+    -fx-text-fill: #3d3b3b;
+}
