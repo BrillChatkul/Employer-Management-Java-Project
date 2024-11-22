@@ -3,11 +3,11 @@ Employee Management System base on Java Project using JavaFX for Desktop Applica
 
 
 ## class diagram
-![alt text](image.png)
+![alt text](doc/image.png)
 
 
 ## GUI class diagram
-![alt text](image-1.png)
+![alt text](doc/image-1.png)
 
 ## Storage
 database on local file (.dat file)
@@ -16,41 +16,41 @@ database on local file (.dat file)
 
 ## User Interface
 ### Sign In
-![alt text](image-2.png)
+![alt text](doc/image-2.png)
 
 ### Employee Information
-![alt text](image-3.png)
+![alt text](doc/image-3.png)
 - Change Password
 
-![alt text](image-4.png)
+![alt text](doc/image-4.png)
 - Edit Profile
 
-![alt text](image-5.png)
+![alt text](doc/image-5.png)
 
 ### ADMINISTRATOR
 - EmpoloyeeList
 
-![alt text](image-6.png)
+![alt text](doc/image-6.png)
 
-![alt text](image-7.png)
+![alt text](doc/image-7.png)
 
 - Add new Employee
 
-![alt text](image-8.png)
+![alt text](doc/image-8.png)
 
 - History
 
-![alt text](image-9.png)
+![alt text](doc/image-9.png)
 
 ### MANAGER
 - EmployeeList
 
-![alt text](image-10.png)
+![alt text](doc/image-10.png)
 
 - Report List
 
-![alt text](image-11.png)
+![alt text](doc/image-11.png)
 
 ## Document(TH)
-[Employee Management System Document](<Employee Management System.pdf>)
+[Employee Management System Document](<doc/Employee Management System.pdf>)
 
